@@ -87,6 +87,7 @@
         "description" : "Enter tutorial link url",
         "value": "https://t.me/wikipie7/34",
         "required": false
+      },
     
     "PROTECT_CONTENT": {
       "description": "Protect contents doesn't forward else False",
