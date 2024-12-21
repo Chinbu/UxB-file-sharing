@@ -62,32 +62,6 @@
       "value": "7913251938",
       "required": false
     },
-
-      "USE_SHORTLINK":{
-        "description":"Enter True for enabling this feature",
-        "value": "True",
-        "required": false
-      },
-      "SHORTLINK_API_URL": {
-        "description":"Enter your shortlink url",
-        "value" : "telegramlink.in",
-        "required":false
-      },
-      "SHORTLINK_API_KEY":{
-        "description": "Enter your shortlink api key",
-        "value" : "4fc9c8bf2c102c7a32d4977e56736073d411d326",
-        "required" : false
-      },
-      "VERIFY_EXPIRE": {
-        "description" : "Enter your expiration time 24hr = 86400 12hr = 43200",
-        "value": "86400",
-        "required": false
-      },
-      "TUT_VID": {
-        "description" : "Enter tutorial link url",
-        "value": "https://t.me/wikipie7/34",
-        "required": false
-      },
     
     "PROTECT_CONTENT": {
       "description": "Protect contents doesn't forward else False",
